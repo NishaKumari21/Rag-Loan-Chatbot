@@ -1,0 +1,9 @@
+```txt
+pandas
+faiss-cpu
+sentence-transformers
+openai
+streamlit
+transformers
+torch
+```
